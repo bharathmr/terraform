@@ -12,7 +12,6 @@ FEATURES:
 
 IMPROVEMENTS:
 
- * provider/alicloud: change create ecs postpaid instance API [GH-12226]
  * provider/aws: Return errors from Elastic Beanstalk [GH-12425]
  * provider/aws: Add support for ACM certificates to `api_gateway_domain_name` [GH-12592]
  * provider/aws: Add support for IPv6 to aws_security_group_rule [GH-12645]
