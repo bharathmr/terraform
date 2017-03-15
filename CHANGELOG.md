@@ -7,6 +7,7 @@ FEATURES:
  * **New Resource:**  `datadog_downtime` [GH-10994]
  * **New Resource:**  `ns1_notifylist` [GH-12373]
  * **New Resource:**  `google_container_node_pool` [GH-11802]
+ * **New Resource:**  `rancher_certificate` [GH-12717]
  * **New Resource:**  `rancher_host` [GH-11545]
 
 IMPROVEMENTS:
