@@ -54,6 +54,7 @@ BUG FIXES:
  * provider/datadog: Update to datadog_monitor to use default values [GH-12497]
  * provider/google: Minor correction : "Deleting disk" message in Delete method [GH-12521]
  * provider/mysql: Avoid crash on un-interpolated provider cfg [GH-12391]
+ * provider/ns1: Fix incorrect schema (causing crash) for 'ns1_user.notify' [GH-12721]
  * provider/openstack: Handle cases where volumes are disabled [GH-12374]
  * provider/openstack: Toggle Creation of Default Security Group Rules [GH-12119]
  * provider/openstack: Change Port fixed_ip to a Set [GH-12613]
