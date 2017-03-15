@@ -59,6 +59,7 @@ BUG FIXES:
  * provider/openstack: Add network_id to Network data source [GH-12615]
  * provider/openstack: Check for ErrDefault500 when creating/deleting pool member [GH-12664]
  * provider/rancher: Apply the set value for finish_upgrade to set to prevent recurring plans [GH-12545]
+ * provider/scaleway: work around API concurrency issue [GH-12707]
  * provider/statuscake: use default status code list when updating test [GH-12375]
 
 
